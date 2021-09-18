@@ -32,7 +32,8 @@ namespace MailSearch
                         {
                             case "\"Twitch\" <no-reply@twitch.tv>":
                                 {
-                                    if (client.GetMessage(client.GetMessageCount() - i).Headers.Subject.Contains("name_chanel") && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.Date == dateTime
+                                    if (client.GetMessage(client.GetMessageCount() - i).Headers.Subject.Contains("name_chanel") 
+                                    && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.Date == dateTime
                                     && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.TimeOfDay > new TimeSpan(9, 30, 0))
                                     {
                                         System.Diagnostics.Process.Start(get_link_from_youtube_and_twich(client, i, 42));

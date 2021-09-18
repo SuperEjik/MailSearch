@@ -673,138 +673,138 @@ D:\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.csproj.CoreCompileInput
 D:\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.csproj.CopyComplete
 D:\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.exe
 D:\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.pdb
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MailSearch.exe.config
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MailSearch.exe
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MailSearch.pdb
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Win32.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\netstandard.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.AppContext.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Collections.Concurrent.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Collections.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Collections.NonGeneric.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Collections.Specialized.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.ComponentModel.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.ComponentModel.EventBasedAsync.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.ComponentModel.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.ComponentModel.TypeConverter.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Console.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Data.Common.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.Contracts.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.Debug.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.FileVersionInfo.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.Process.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.StackTrace.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.Tools.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.TraceSource.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Diagnostics.Tracing.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Drawing.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Dynamic.Runtime.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Globalization.Calendars.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Globalization.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Globalization.Extensions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.Compression.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.Compression.ZipFile.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.FileSystem.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.FileSystem.DriveInfo.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.FileSystem.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.FileSystem.Watcher.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.IsolatedStorage.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.MemoryMappedFiles.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.Pipes.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.IO.UnmanagedMemoryStream.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Linq.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Linq.Expressions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Linq.Parallel.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Linq.Queryable.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.Http.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.NameResolution.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.NetworkInformation.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.Ping.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.Requests.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.Security.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.Sockets.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.WebHeaderCollection.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.WebSockets.Client.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Net.WebSockets.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.ObjectModel.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Reflection.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Reflection.Extensions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Reflection.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Resources.Reader.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Resources.ResourceManager.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Resources.Writer.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Extensions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Handles.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.InteropServices.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Numerics.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Serialization.Formatters.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Serialization.Json.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Serialization.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.Serialization.Xml.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Claims.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Cryptography.Algorithms.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Cryptography.Csp.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Cryptography.Encoding.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Cryptography.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.Principal.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Security.SecureString.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Text.Encoding.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Text.Encoding.Extensions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Text.RegularExpressions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.Overlapped.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.Tasks.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.Tasks.Parallel.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.Thread.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.ThreadPool.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Threading.Timer.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.ValueTuple.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Xml.ReaderWriter.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Xml.XDocument.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Xml.XmlDocument.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Xml.XmlSerializer.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Xml.XPath.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Xml.XPath.XDocument.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\AE.Net.Mail.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\AspNetCore.Email.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Mail.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MailKit.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.Options.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.Primitives.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MimeKit.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\OpenPop.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Buffers.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Memory.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\AE.Net.Mail.pdb
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\BouncyCastle.Crypto.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Mail.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MailKit.pdb
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MailKit.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.Options.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\Microsoft.Extensions.Primitives.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MimeKit.pdb
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\MimeKit.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Buffers.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Memory.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\obj\Debug\MailSearch.csproj.AssemblyReference.cache
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\obj\Debug\MailSearch.exe.config
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\obj\Debug\MailSearch.csproj.CoreCompileInputs.cache
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\obj\Debug\MailSearch.csproj.CopyComplete
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\obj\Debug\MailSearch.exe
-C:\Users\oves0\OneDrive\Рабочий стол\Новая папка (2)\MailSearch\obj\Debug\MailSearch.pdb
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MailSearch.exe.config
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MailSearch.exe
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MailSearch.pdb
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\netstandard.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.AppContext.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Collections.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Collections.Specialized.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.ComponentModel.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Console.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Data.Common.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Globalization.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.Compression.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.FileSystem.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.Pipes.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Linq.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Linq.Expressions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Linq.Parallel.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Linq.Queryable.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.Http.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.NameResolution.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.Ping.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.Requests.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.Security.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.Sockets.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Net.WebSockets.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.ObjectModel.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Reflection.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Resources.Reader.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Resources.Writer.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Handles.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Claims.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.Principal.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Security.SecureString.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Text.Encoding.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.Tasks.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.Thread.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Threading.Timer.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.ValueTuple.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Xml.XDocument.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Xml.XPath.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\AE.Net.Mail.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\AspNetCore.Email.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Mail.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MailKit.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MimeKit.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\OpenPop.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Buffers.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Memory.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\AE.Net.Mail.pdb
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Mail.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MailKit.pdb
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MailKit.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MimeKit.pdb
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\MimeKit.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Buffers.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Memory.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.csproj.AssemblyReference.cache
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.exe.config
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.csproj.CoreCompileInputs.cache
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.csproj.CopyComplete
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.exe
+C:\Users\oves0\OneDrive\Рабочий стол\Новая папка\MailSearch\MailSearch\MailSearch\obj\Debug\MailSearch.pdb
