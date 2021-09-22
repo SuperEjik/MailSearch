@@ -13,26 +13,27 @@ namespace MailSearch
 
             bool found = false;
             DateTime dateTime;
-            dateTime = DateTime.Today;
-            //var client = new OpenPop.Pop3.Pop3Client();
             int i = 0;
 
             while (found == false)
             {
-                i = 0;
-
-                var client = new OpenPop.Pop3.Pop3Client();
-                client.Connect("pop.gmail.com", 995, true);//для каждого электронного ящика своя информация (пример для гугл)
-                client.Authenticate(YourMail, YourPassword, OpenPop.Pop3.AuthenticationMethod.UsernameAndPassword);
-
-                while (i < client.GetMessageCount() && found == false)
+                try
                 {
+                    i = 0;
+                    dateTime = DateTime.Today;
+
+                    var client = new OpenPop.Pop3.Pop3Client();
+                    client.Connect("pop.gmail.com", 995, true);//для каждого электронного ящика своя информация (пример для гугл)
+                    client.Authenticate(YourMail, YourPassword, OpenPop.Pop3.AuthenticationMethod.UsernameAndPassword);
+
+                    while (i < client.GetMessageCount() && found == false)
+                    {
 
                         switch (client.GetMessage(client.GetMessageCount() - i).Headers.From.ToString())
                         {
                             case "\"Twitch\" <no-reply@twitch.tv>":
                                 {
-                                    if (client.GetMessage(client.GetMessageCount() - i).Headers.Subject.Contains("name_chanel") 
+                                    if (client.GetMessage(client.GetMessageCount() - i).Headers.Subject.Contains("name")
                                     && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.Date == dateTime
                                     && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.TimeOfDay > new TimeSpan(9, 30, 0))
                                     {
@@ -45,7 +46,7 @@ namespace MailSearch
 
                             case "\"YouTube\" <noreply@youtube.com>":
                                 {
-                                    if (client.GetMessage(client.GetMessageCount() - i).Headers.Subject.Contains("name_chanel") && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.Date == dateTime
+                                    if (client.GetMessage(client.GetMessageCount() - i).Headers.Subject.Contains("name") && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.Date == dateTime
                                     && client.GetMessage(client.GetMessageCount() - i).Headers.DateSent.TimeOfDay > new TimeSpan(9, 30, 0))
                                     {
                                         System.Diagnostics.Process.Start(get_link_from_youtube_and_twich(client, i, 478));
@@ -56,9 +57,14 @@ namespace MailSearch
                                 }
                         }
 
-                    i++;
+                        i++;
+                    }
                 }
+                catch (System.IO.IOException e)
+                {
 
+                    //throw;
+                }
 
             }
         }

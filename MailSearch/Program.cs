@@ -13,18 +13,21 @@ namespace MailSearch
             a.add_autorun();
             //a.delete_autorun();
 
-            try
-            {
-                Mail m = new Mail();
-                m.search();
-            }
-            catch (System.Exception)
-            {
+            Mail m = new Mail();
+            m.search();
 
-                MessageBox.Show("Приложение завершило работу");
-            }
+            //while (true)
+            //{
+            //    try
+            //    {
 
 
+            //    }
+            //    catch (System.IO.IOException e)
+            //    {
+            //        //MessageBox.Show(e.Message);
+            //    }
+            //}
         }
     }
 }
